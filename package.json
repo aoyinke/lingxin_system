@@ -8,6 +8,10 @@
   },
   "dependencies": {
     "core-js": "^3.4.3",
+<<<<<<< HEAD
+    "iview": "^3.5.4",
+=======
+>>>>>>> a5b846e31b530d198b00bdb2dbd5ccde37889eb6
     "vue": "^2.6.10",
     "vue-router": "^3.1.3",
     "vuex": "^3.1.2"
