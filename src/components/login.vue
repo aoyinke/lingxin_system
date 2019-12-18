@@ -61,11 +61,11 @@ export default {
   data() {
     return {
       note: {
-        backgroundImage: "url(" + require("../assets/login_bg.png") + ")",
+        backgroundImage: "url(" + require("../../static/img/login_bg.png") + ")",
         backgroundRepeat: "no-repeat",
         backgroundSize:"cover",
         width:"100%",
-        height:"100%",
+        height:"100%",  
         minWidth:"973" + "px",
         minWeigth:"584" + "px"
         

@@ -1,38 +1,27 @@
 # lingxin_system
 
-<<<<<<< HEAD
-#### 这是一个用来管理小组成员协作的系统
+> A Vue.js project
 
-=======
->>>>>>> a5b846e31b530d198b00bdb2dbd5ccde37889eb6
-## Project setup
-```
+## Build Setup
+
+``` bash
+# install dependencies
 npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# serve with hot reload at localhost:8080
+npm run dev
 
-### Compiles and minifies for production
-```
+# build for production with minification
 npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+
+# run unit tests
+npm run unit
+
+# run all tests
+npm test
 ```
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-<<<<<<< HEAD
-
-=======
->>>>>>> a5b846e31b530d198b00bdb2dbd5ccde37889eb6
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
